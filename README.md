@@ -1,7 +1,5 @@
 <h1 align="center">Hello guys, I'm Jarek</h1>
 
-- 🌱 I’m currently learning: **Linux Administration, Docker, TCP/IP related stuff**
-
 - 📫 Email me: **jarek.cieslak99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
