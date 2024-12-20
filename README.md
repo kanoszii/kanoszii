@@ -1,7 +1,3 @@
-<h1 align="center">Hello guys, I'm Jarek</h1>
-
-- 📫 Email me: **jarek.cieslak99@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kanoszii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanoszii" height="30" width="40" /></a>
