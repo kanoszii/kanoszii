@@ -18,6 +18,9 @@
   <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="DigitalOcean" width="40" height="40"/>
   </a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/11524380?s=48&v=4" alt="bash" width="40" height="40"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
@@ -59,6 +62,9 @@
   </a>
   <a href="https://www.hashicorp.com/products/vault" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/761456?s=200&v=4" alt="Vault" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" alt="Vault" width="40" height="40"/>
   </a>
 </p>
 
